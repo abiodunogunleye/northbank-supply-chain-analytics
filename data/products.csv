@@ -1,0 +1,301 @@
+sku,description,category,unit_cost,unit_price,supplier_id,reorder_point,lead_time_days
+NB-10001,Weatherproof Hand Trowel - Small,Garden,7.36,9.64,SUP-05,284,5
+NB-10002,Weatherproof Garden Gloves - Multipack,Garden,8.83,17.08,SUP-05,101,5
+NB-10003,Chew-Resistant Cat Treats - Value Pack,Pet Supplies,2.71,4.99,SUP-07,134,5
+NB-10004,Grain-Free Dog Shampoo - Medium,Pet Supplies,6.2,11.41,SUP-07,116,3
+NB-10005,Bamboo Tea Towel Set - Large,Homeware,4.74,8.59,SUP-02,113,3
+NB-10006,Cordless Cable Ties - Pack of 50,DIY & Tools,9.5,16.23,SUP-03,115,5
+NB-10007,UV-Resistant Hand Trowel - Small,Garden,6.46,8.74,SUP-06,158,9
+NB-10008,Travel Sunscreen SPF30 - 500ml,Health & Beauty,2.85,3.99,SUP-11,189,10
+NB-10009,Glass Storage Jar - Large,Homeware,3.66,6.32,SUP-02,133,5
+NB-10010,Universal Car Phone Holder - Black,Electronics Accessories,39.21,71.48,SUP-09,349,25
+NB-10011,Rust-Resistant Screwdriver Set - XL,DIY & Tools,14.76,21.88,SUP-03,116,3
+NB-10012,Cotton Saucepan - Set of 4,Homeware,5.45,11.27,SUP-01,203,3
+NB-10013,Cordless Utility Knife - Standard,DIY & Tools,8.7,18.82,SUP-04,307,9
+NB-10014,Puppy Dog Lead - Value Pack,Pet Supplies,4.09,6.01,SUP-07,83,3
+NB-10015,Braided Car Phone Holder - Black,Electronics Accessories,20.74,34.0,SUP-09,343,26
+NB-10016,Daily Deodorant - Twin Pack,Health & Beauty,2.17,3.88,SUP-12,421,22
+NB-10017,Heavy Duty Watering Can - Medium,Garden,6.8,12.02,SUP-06,140,7
+NB-10018,Nourishing Shampoo - 250ml,Health & Beauty,3.53,4.97,SUP-12,662,20
+NB-10019,Nourishing Conditioner - 100ml,Health & Beauty,4.72,8.99,SUP-11,141,9
+NB-10020,Daily Conditioner - Twin Pack,Health & Beauty,4.3,7.69,SUP-12,328,22
+NB-10021,Weatherproof Plant Pot - Medium,Garden,7.92,14.92,SUP-06,112,8
+NB-10022,Cotton Saucepan - Large,Homeware,4.31,5.69,SUP-02,99,3
+NB-10023,Intensive Sunscreen SPF30 - 500ml,Health & Beauty,2.92,5.4,SUP-12,319,22
+NB-10024,Galvanised Spirit Level - XL,DIY & Tools,5.42,8.28,SUP-04,175,9
+NB-10025,Intensive Lip Balm - 100ml,Health & Beauty,6.67,10.22,SUP-11,364,9
+NB-10026,UV-Resistant Pruning Shears - Small,Garden,6.0,9.5,SUP-05,95,3
+NB-10027,Fragrance-Free Conditioner - 100ml,Health & Beauty,2.65,5.68,SUP-12,262,21
+NB-10028,Bamboo Cutlery Set - Large,Homeware,8.23,15.92,SUP-02,79,3
+NB-10029,Premium Pet Bowl - Large,Pet Supplies,4.47,6.26,SUP-07,110,4
+NB-10030,Weatherproof Watering Can - Medium,Garden,14.12,23.34,SUP-05,129,3
+NB-10031,Glass Mug - Set of 4,Homeware,5.04,8.53,SUP-01,781,5
+NB-10032,Lightweight Compost Bag - Small,Garden,3.3,5.37,SUP-06,172,8
+NB-10033,Rust-Resistant Spirit Level - Pack of 100,DIY & Tools,18.88,33.94,SUP-04,47,8
+NB-10034,Cotton Kettle - Set of 4,Homeware,3.6,6.03,SUP-02,128,5
+NB-10035,Cotton Kettle - Large,Homeware,3.61,7.24,SUP-02,129,3
+NB-10036,Cotton Kettle - Medium,Homeware,5.54,9.96,SUP-02,92,3
+NB-10037,Gentle Body Wash - 100ml,Health & Beauty,4.35,6.71,SUP-12,211,20
+NB-10038,Cotton Tea Towel Set - Set of 4,Homeware,5.41,7.5,SUP-01,87,4
+NB-10039,Stainless Steel Mug - Large,Homeware,5.48,8.01,SUP-02,123,4
+NB-10040,Non-Stick Baking Tray - Set of 4,Homeware,3.82,5.88,SUP-02,98,5
+NB-10041,Bamboo Storage Jar - Medium,Homeware,12.47,22.81,SUP-01,169,5
+NB-10042,Natural Dry Dog Food - Value Pack,Pet Supplies,6.68,9.3,SUP-07,131,3
+NB-10043,Stainless Steel Mug - Medium,Homeware,12.67,24.09,SUP-01,188,4
+NB-10044,Compact Cable Ties - XL,DIY & Tools,7.99,10.79,SUP-03,188,3
+NB-10045,Daily Body Wash - 100ml,Health & Beauty,8.49,12.32,SUP-11,183,9
+NB-10046,Braided USB-C Cable - Black,Electronics Accessories,8.06,11.66,SUP-09,313,24
+NB-10047,Heavy Duty Claw Hammer - XL,DIY & Tools,8.18,15.16,SUP-04,115,9
+NB-10048,Fragrance-Free Face Wash - 250ml,Health & Beauty,3.06,5.33,SUP-11,785,10
+NB-10049,Puppy Dog Lead - Medium,Pet Supplies,7.6,14.66,SUP-08,121,9
+NB-10050,Slim Power Bank - White,Electronics Accessories,9.72,19.28,SUP-09,970,24
+NB-10051,Fast-Charge Power Bank - Black,Electronics Accessories,9.81,14.62,SUP-10,181,19
+NB-10052,Travel Face Wash - 250ml,Health & Beauty,2.89,4.21,SUP-12,276,20
+NB-10053,Gentle Sunscreen SPF30 - Twin Pack,Health & Beauty,3.87,7.42,SUP-12,192,22
+NB-10054,Cotton Mug - Set of 4,Homeware,6.76,9.86,SUP-01,143,4
+NB-10055,Lightweight Garden Hose - Medium,Garden,5.84,8.54,SUP-05,89,3
+NB-10056,Cordless Drill Bit Set - Pack of 100,DIY & Tools,9.73,15.43,SUP-04,286,9
+NB-10057,Premium Dog Shampoo - Value Pack,Pet Supplies,3.5,7.03,SUP-07,117,5
+NB-10058,Ceramic Saucepan - Small,Homeware,5.02,9.76,SUP-02,103,5
+NB-10059,Nourishing Shampoo - Twin Pack,Health & Beauty,1.72,2.58,SUP-12,221,22
+NB-10060,Heavy Duty Watering Can - Large,Garden,8.41,13.06,SUP-06,181,8
+NB-10061,Chew-Resistant Dog Chew Toy - Large,Pet Supplies,3.64,6.41,SUP-07,169,4
+NB-10062,Puppy Cat Treats - Value Pack,Pet Supplies,1.44,2.49,SUP-07,86,3
+NB-10063,Compact USB-C Cable - 2m,Electronics Accessories,12.46,23.02,SUP-10,373,19
+NB-10064,Weatherproof Garden Hose - Large,Garden,7.25,11.24,SUP-05,116,3
+NB-10065,Natural Cat Scratching Post - Small,Pet Supplies,6.74,9.43,SUP-08,170,8
+NB-10066,Lightweight Compost Bag - Medium,Garden,5.92,12.1,SUP-06,555,9
+NB-10067,Premium USB-C Cable - White,Electronics Accessories,6.85,14.16,SUP-09,387,25
+NB-10068,Grain-Free Cat Scratching Post - Large,Pet Supplies,2.88,4.4,SUP-08,274,10
+NB-10069,Universal USB-C Cable - Black,Electronics Accessories,3.04,6.56,SUP-10,359,21
+NB-10070,Puppy Dog Lead - Small,Pet Supplies,6.18,9.8,SUP-07,236,3
+NB-10071,Pro Claw Hammer - XL,DIY & Tools,19.16,38.4,SUP-03,126,5
+NB-10072,Compact Earphones - Black,Electronics Accessories,9.2,15.95,SUP-09,308,24
+NB-10073,Puppy Pet Bed - Value Pack,Pet Supplies,8.25,13.85,SUP-08,724,9
+NB-10074,Premium Cat Treats - Medium,Pet Supplies,3.04,4.63,SUP-08,123,8
+NB-10075,Slim Phone Case - Black,Electronics Accessories,12.99,27.82,SUP-09,452,25
+NB-10076,Heavy Duty Utility Knife - Pack of 100,DIY & Tools,7.99,14.99,SUP-04,191,8
+NB-10077,Grain-Free Dry Dog Food - Medium,Pet Supplies,5.85,11.38,SUP-08,182,8
+NB-10078,Travel Hand Cream - 250ml,Health & Beauty,2.92,5.2,SUP-12,870,20
+NB-10079,Grain-Free Pet Bowl - Medium,Pet Supplies,10.07,20.82,SUP-07,122,5
+NB-10080,Slim Earphones - 2m,Electronics Accessories,6.53,11.24,SUP-09,392,25
+NB-10081,Pro Wall Plugs - Standard,DIY & Tools,3.31,6.06,SUP-04,170,8
+NB-10082,Grain-Free Dog Chew Toy - Large,Pet Supplies,4.32,6.53,SUP-08,150,8
+NB-10083,Natural Pet Bowl - Value Pack,Pet Supplies,2.06,3.48,SUP-07,181,4
+NB-10084,UV-Resistant Garden Hose - Small,Garden,9.97,16.0,SUP-05,184,5
+NB-10085,Slim Car Phone Holder - 1m,Electronics Accessories,4.47,6.01,SUP-10,250,21
+NB-10086,Natural Dog Shampoo - Medium,Pet Supplies,12.56,19.68,SUP-07,161,5
+NB-10087,Folding Hand Trowel - Large,Garden,8.19,13.66,SUP-06,269,9
+NB-10088,Bamboo Saucepan - Large,Homeware,8.2,13.66,SUP-02,198,4
+NB-10089,Fragrance-Free Hand Sanitiser - 100ml,Health & Beauty,3.68,7.7,SUP-11,125,10
+NB-10090,Travel Deodorant - 500ml,Health & Beauty,6.77,12.58,SUP-12,297,20
+NB-10091,Natural Dry Dog Food - Small,Pet Supplies,8.41,16.04,SUP-08,130,9
+NB-10092,Washable Dog Lead - Small,Pet Supplies,4.47,7.86,SUP-07,166,5
+NB-10093,Premium Earphones - 2m,Electronics Accessories,3.38,4.86,SUP-10,182,21
+NB-10094,UV-Resistant Hand Trowel - Medium,Garden,14.33,30.06,SUP-06,464,7
+NB-10095,Puppy Cat Litter - Large,Pet Supplies,5.95,9.85,SUP-07,83,3
+NB-10096,Travel Shampoo - 250ml,Health & Beauty,1.23,2.51,SUP-11,229,8
+NB-10097,Heavy Duty Claw Hammer - Pack of 100,DIY & Tools,9.0,18.59,SUP-04,148,8
+NB-10098,Glass Baking Tray - Small,Homeware,6.92,10.96,SUP-02,113,3
+NB-10099,Non-Stick Tea Towel Set - Large,Homeware,13.21,27.76,SUP-02,88,3
+NB-10100,Compact Adjustable Spanner - Pack of 100,DIY & Tools,11.87,24.52,SUP-04,137,9
+NB-10101,Premium Dog Chew Toy - Small,Pet Supplies,5.34,8.61,SUP-08,142,8
+NB-10102,Stainless Steel Kettle - Large,Homeware,4.89,8.0,SUP-02,92,5
+NB-10103,Stainless Steel Cutlery Set - Large,Homeware,3.03,4.27,SUP-02,115,3
+NB-10104,Rust-Resistant Adjustable Spanner - XL,DIY & Tools,7.61,16.39,SUP-03,102,5
+NB-10105,Travel Conditioner - 100ml,Health & Beauty,6.72,10.68,SUP-12,291,22
+NB-10106,Nourishing Face Wash - 100ml,Health & Beauty,7.71,15.07,SUP-11,165,9
+NB-10107,Glass Storage Jar - Small,Homeware,9.13,13.53,SUP-02,290,5
+NB-10108,Galvanised Spirit Level - Pack of 50,DIY & Tools,7.96,16.95,SUP-03,244,3
+NB-10109,Chew-Resistant Pet Carrier - Small,Pet Supplies,7.24,15.67,SUP-08,151,9
+NB-10110,Daily Conditioner - 250ml,Health & Beauty,4.36,8.59,SUP-11,136,10
+NB-10111,Galvanised Drill Bit Set - Pack of 50,DIY & Tools,21.4,34.14,SUP-04,332,9
+NB-10112,Grain-Free Dog Lead - Medium,Pet Supplies,9.34,14.92,SUP-08,173,10
+NB-10113,Travel Lip Balm - Twin Pack,Health & Beauty,3.35,6.62,SUP-11,289,10
+NB-10114,Ceramic Laundry Basket - Set of 4,Homeware,3.79,5.89,SUP-01,122,5
+NB-10115,Washable Cat Litter - Large,Pet Supplies,2.33,3.71,SUP-07,93,3
+NB-10116,Folding Weed Membrane - Small,Garden,4.49,9.84,SUP-06,525,8
+NB-10117,Intensive Body Wash - 500ml,Health & Beauty,2.28,4.66,SUP-11,160,9
+NB-10118,Lightweight Garden Gloves - Multipack,Garden,4.46,8.34,SUP-05,95,5
+NB-10119,Cordless Utility Knife - Pack of 50,DIY & Tools,13.52,21.64,SUP-04,40,9
+NB-10120,Natural Dog Shampoo - Value Pack,Pet Supplies,1.78,2.32,SUP-07,181,4
+NB-10121,Non-Stick Baking Tray - Medium,Homeware,8.04,14.5,SUP-02,105,5
+NB-10122,Weatherproof Compost Bag - Small,Garden,7.48,12.64,SUP-05,115,4
+NB-10123,Lightweight Weed Membrane - Small,Garden,13.84,19.91,SUP-06,18,7
+NB-10124,Compact Wireless Mouse - 1m,Electronics Accessories,9.25,16.45,SUP-09,469,25
+NB-10125,Braided Earphones - 1m,Electronics Accessories,4.04,6.27,SUP-09,700,26
+NB-10126,Heavy Duty Wood Screws - Pack of 100,DIY & Tools,8.36,12.05,SUP-04,202,8
+NB-10127,Braided Laptop Sleeve - 2m,Electronics Accessories,8.31,11.74,SUP-09,342,24
+NB-10128,Cotton Chopping Board - Small,Homeware,8.24,10.88,SUP-01,110,3
+NB-10129,Intensive Body Wash - 100ml,Health & Beauty,3.49,5.54,SUP-12,726,20
+NB-10130,Fast-Charge Phone Case - Black,Electronics Accessories,7.89,16.66,SUP-10,187,19
+NB-10131,Bamboo Mug - Medium,Homeware,4.18,6.83,SUP-01,97,3
+NB-10132,Pro Drill Bit Set - XL,DIY & Tools,21.35,34.82,SUP-03,157,4
+NB-10133,Heavy Duty Compost Bag - Multipack,Garden,10.97,24.03,SUP-05,163,5
+NB-10134,Slim HDMI Cable - 2m,Electronics Accessories,14.68,28.74,SUP-10,257,20
+NB-10135,Washable Cat Litter - Medium,Pet Supplies,10.36,14.09,SUP-07,673,3
+NB-10136,Folding Weed Membrane - Multipack,Garden,6.7,14.19,SUP-06,137,7
+NB-10137,Universal USB-C Cable - 2m,Electronics Accessories,5.2,8.15,SUP-10,219,21
+NB-10138,Braided Wireless Mouse - 2m,Electronics Accessories,2.29,4.72,SUP-10,192,21
+NB-10139,Stainless Steel Laundry Basket - Small,Homeware,3.78,6.89,SUP-01,121,4
+NB-10140,Intensive Face Wash - 250ml,Health & Beauty,3.84,8.41,SUP-11,236,10
+NB-10141,Glass Cutlery Set - Set of 4,Homeware,4.7,7.3,SUP-01,207,3
+NB-10142,Weatherproof Garden Hose - Small,Garden,5.35,9.78,SUP-05,177,5
+NB-10143,Folding Garden Gloves - Large,Garden,12.22,17.52,SUP-06,227,8
+NB-10144,Puppy Dog Shampoo - Medium,Pet Supplies,3.7,6.46,SUP-07,124,4
+NB-10145,Heavy Duty Utility Knife - Pack of 50,DIY & Tools,14.31,30.23,SUP-04,211,7
+NB-10146,Rust-Resistant Utility Knife - Pack of 50,DIY & Tools,10.48,20.83,SUP-03,118,4
+NB-10147,Fast-Charge Phone Case - 1m,Electronics Accessories,17.7,38.01,SUP-10,520,20
+NB-10148,Galvanised Wood Screws - Pack of 50,DIY & Tools,14.84,25.14,SUP-04,252,7
+NB-10149,Premium Earphones - White,Electronics Accessories,10.42,15.88,SUP-09,482,24
+NB-10150,Heavy Duty Seed Tray - Small,Garden,2.48,3.93,SUP-05,119,5
+NB-10151,Travel Deodorant - 100ml,Health & Beauty,7.24,14.73,SUP-11,123,9
+NB-10152,Daily Hand Sanitiser - 250ml,Health & Beauty,3.5,7.62,SUP-12,273,21
+NB-10153,Universal Earphones - 2m,Electronics Accessories,7.64,12.65,SUP-10,86,20
+NB-10154,UV-Resistant Seed Tray - Small,Garden,5.91,10.6,SUP-05,124,3
+NB-10155,Puppy Pet Bed - Medium,Pet Supplies,2.38,4.37,SUP-07,161,5
+NB-10156,Non-Stick Chopping Board - Large,Homeware,3.1,6.71,SUP-01,101,4
+NB-10157,Compact Claw Hammer - XL,DIY & Tools,3.74,6.39,SUP-03,129,4
+NB-10158,Gentle Deodorant - 250ml,Health & Beauty,3.17,4.45,SUP-11,155,8
+NB-10159,Ceramic Kettle - Large,Homeware,12.93,19.86,SUP-01,100,3
+NB-10160,Premium USB-C Cable - 2m,Electronics Accessories,6.01,10.61,SUP-10,1019,19
+NB-10161,Weatherproof Plant Pot - Multipack,Garden,6.07,11.46,SUP-06,129,8
+NB-10162,Natural Pet Bowl - Large,Pet Supplies,6.66,12.57,SUP-08,177,10
+NB-10163,Compact HDMI Cable - 2m,Electronics Accessories,8.12,13.33,SUP-10,652,20
+NB-10164,Stainless Steel Tea Towel Set - Set of 4,Homeware,6.04,8.68,SUP-01,111,4
+NB-10165,Bamboo Mug - Set of 4,Homeware,5.59,11.42,SUP-01,154,3
+NB-10166,Heavy Duty Utility Knife - Standard,DIY & Tools,17.49,34.04,SUP-03,1613,4
+NB-10167,Daily Shampoo - 100ml,Health & Beauty,4.85,8.15,SUP-12,407,22
+NB-10168,Folding Watering Can - Small,Garden,6.05,10.45,SUP-05,93,3
+NB-10169,Braided Power Bank - 1m,Electronics Accessories,4.85,9.09,SUP-10,510,21
+NB-10170,Fragrance-Free Face Wash - Twin Pack,Health & Beauty,3.51,6.73,SUP-12,199,21
+NB-10171,Non-Stick Tea Towel Set - Small,Homeware,11.84,18.91,SUP-01,146,4
+NB-10172,Chew-Resistant Pet Carrier - Medium,Pet Supplies,7.43,13.47,SUP-08,236,9
+NB-10173,Folding Garden Gloves - Small,Garden,10.98,16.17,SUP-05,147,3
+NB-10174,Cotton Food Container - Large,Homeware,9.12,14.46,SUP-02,88,3
+NB-10175,Natural Dog Chew Toy - Value Pack,Pet Supplies,2.54,4.36,SUP-07,110,5
+NB-10176,Organic Bird Feeder - Medium,Garden,5.05,8.6,SUP-05,192,4
+NB-10177,Stainless Steel Tea Towel Set - Large,Homeware,14.52,28.92,SUP-02,140,3
+NB-10178,Heavy Duty Pruning Shears - Large,Garden,7.02,11.4,SUP-05,129,5
+NB-10179,Galvanised Screwdriver Set - Pack of 50,DIY & Tools,10.12,15.62,SUP-04,401,9
+NB-10180,Fragrance-Free Shower Gel - 100ml,Health & Beauty,2.69,5.62,SUP-12,1825,20
+NB-10181,Lightweight Plant Pot - Multipack,Garden,8.68,17.83,SUP-06,149,8
+NB-10182,Rust-Resistant Adjustable Spanner - Pack of 100,DIY & Tools,11.21,23.84,SUP-03,91,4
+NB-10183,Braided Wall Charger - Black,Electronics Accessories,3.89,7.7,SUP-09,294,25
+NB-10184,Pro Screwdriver Set - Standard,DIY & Tools,10.68,21.81,SUP-03,132,4
+NB-10185,Gentle Deodorant - 500ml,Health & Beauty,1.58,2.33,SUP-11,224,9
+NB-10186,Compact Adjustable Spanner - Pack of 50,DIY & Tools,7.78,11.06,SUP-04,191,8
+NB-10187,Stainless Steel Mug - Small,Homeware,3.25,7.13,SUP-01,201,3
+NB-10188,Nourishing Shower Gel - 500ml,Health & Beauty,3.11,4.14,SUP-11,140,9
+NB-10189,Fast-Charge Wireless Mouse - White,Electronics Accessories,8.26,14.42,SUP-10,222,21
+NB-10190,Puppy Dog Chew Toy - Medium,Pet Supplies,10.68,16.93,SUP-08,252,10
+NB-10191,Compact Adjustable Spanner - XL,DIY & Tools,7.64,12.54,SUP-04,104,8
+NB-10192,Galvanised Wood Screws - Standard,DIY & Tools,7.11,14.23,SUP-03,94,5
+NB-10193,Weatherproof Seed Tray - Small,Garden,5.41,7.54,SUP-05,93,3
+NB-10194,Universal Car Phone Holder - 2m,Electronics Accessories,17.46,24.34,SUP-10,800,21
+NB-10195,Heavy Duty Pruning Shears - Small,Garden,8.39,18.05,SUP-06,148,8
+NB-10196,UV-Resistant Pruning Shears - Medium,Garden,8.32,12.04,SUP-05,115,5
+NB-10197,Premium Car Phone Holder - White,Electronics Accessories,12.7,17.98,SUP-09,752,25
+NB-10198,Bamboo Kettle - Set of 4,Homeware,7.27,12.82,SUP-02,103,5
+NB-10199,Bamboo Storage Jar - Set of 4,Homeware,8.43,11.01,SUP-01,140,5
+NB-10200,Intensive Conditioner - 250ml,Health & Beauty,4.77,9.1,SUP-12,436,20
+NB-10201,Compact Phone Case - Black,Electronics Accessories,1.85,3.77,SUP-09,96,26
+NB-10202,Washable Pet Bed - Medium,Pet Supplies,8.89,13.46,SUP-08,184,10
+NB-10203,Galvanised Adjustable Spanner - Pack of 50,DIY & Tools,6.82,12.49,SUP-03,101,3
+NB-10204,Heavy Duty Garden Gloves - Medium,Garden,4.72,7.17,SUP-05,400,5
+NB-10205,Compact HDMI Cable - Black,Electronics Accessories,4.67,6.83,SUP-09,225,25
+NB-10206,Travel Conditioner - Twin Pack,Health & Beauty,7.17,9.77,SUP-12,643,22
+NB-10207,Grain-Free Dog Chew Toy - Value Pack,Pet Supplies,2.7,4.14,SUP-08,349,10
+NB-10208,Premium Screen Protector - 1m,Electronics Accessories,5.66,8.39,SUP-10,254,21
+NB-10209,Lightweight Garden Gloves - Large,Garden,4.59,8.49,SUP-05,119,4
+NB-10210,Glass Food Container - Set of 4,Homeware,4.67,7.04,SUP-01,251,3
+NB-10211,Nourishing Deodorant - Twin Pack,Health & Beauty,1.1,1.65,SUP-12,265,21
+NB-10212,Daily Hand Cream - 500ml,Health & Beauty,2.52,5.54,SUP-12,223,21
+NB-10213,Puppy Cat Scratching Post - Medium,Pet Supplies,2.85,5.03,SUP-08,175,8
+NB-10214,Puppy Dry Dog Food - Value Pack,Pet Supplies,7.94,16.13,SUP-08,207,10
+NB-10215,Heavy Duty Adjustable Spanner - Pack of 50,DIY & Tools,7.47,12.92,SUP-03,132,3
+NB-10216,Fragrance-Free Deodorant - Twin Pack,Health & Beauty,3.68,5.89,SUP-12,689,21
+NB-10217,Braided Screen Protector - 2m,Electronics Accessories,7.15,9.94,SUP-09,369,25
+NB-10218,Compact Drill Bit Set - Pack of 100,DIY & Tools,10.26,21.88,SUP-03,125,5
+NB-10219,Lightweight Plant Pot - Large,Garden,8.67,16.24,SUP-05,122,5
+NB-10220,Travel Shower Gel - 100ml,Health & Beauty,3.71,6.78,SUP-12,163,20
+NB-10221,Cordless Wood Screws - Standard,DIY & Tools,4.73,9.32,SUP-04,240,7
+NB-10222,Natural Pet Bed - Medium,Pet Supplies,14.81,26.74,SUP-07,96,3
+NB-10223,Bamboo Cutlery Set - Medium,Homeware,5.77,9.38,SUP-01,98,5
+NB-10224,Premium Cat Scratching Post - Value Pack,Pet Supplies,3.98,5.57,SUP-08,431,8
+NB-10225,Braided Power Bank - Black,Electronics Accessories,16.33,32.16,SUP-09,81,25
+NB-10226,Cotton Saucepan - Medium,Homeware,8.37,13.75,SUP-02,91,3
+NB-10227,Cotton Cutlery Set - Large,Homeware,2.59,5.15,SUP-01,563,4
+NB-10228,Cordless Claw Hammer - Pack of 100,DIY & Tools,4.81,8.24,SUP-04,286,9
+NB-10229,Daily Sunscreen SPF30 - Twin Pack,Health & Beauty,4.38,5.7,SUP-11,144,8
+NB-10230,Folding Bird Feeder - Medium,Garden,8.33,14.38,SUP-06,158,7
+NB-10231,Folding Garden Gloves - Multipack,Garden,5.36,11.7,SUP-05,172,4
+NB-10232,Organic Pruning Shears - Multipack,Garden,23.48,46.84,SUP-06,174,8
+NB-10233,Compact Wall Plugs - XL,DIY & Tools,10.82,18.14,SUP-04,31,7
+NB-10234,Gentle Shower Gel - 500ml,Health & Beauty,2.67,5.69,SUP-12,371,20
+NB-10235,Gentle Lip Balm - Twin Pack,Health & Beauty,2.64,4.5,SUP-12,320,20
+NB-10236,Weatherproof Pruning Shears - Multipack,Garden,4.33,7.83,SUP-05,120,4
+NB-10237,Cotton Baking Tray - Small,Homeware,3.45,5.45,SUP-02,148,5
+NB-10238,Lightweight Bird Feeder - Medium,Garden,9.51,12.98,SUP-05,132,5
+NB-10239,Pro Adjustable Spanner - Pack of 100,DIY & Tools,16.04,29.12,SUP-03,116,3
+NB-10240,Compact Phone Case - White,Electronics Accessories,10.56,16.06,SUP-09,324,26
+NB-10241,Heavy Duty Drill Bit Set - Pack of 100,DIY & Tools,10.26,14.28,SUP-03,90,4
+NB-10242,Fast-Charge USB-C Cable - White,Electronics Accessories,6.82,14.64,SUP-09,415,24
+NB-10243,Fast-Charge Wall Charger - 1m,Electronics Accessories,4.59,9.9,SUP-10,210,20
+NB-10244,Glass Cutlery Set - Medium,Homeware,16.28,28.35,SUP-01,378,4
+NB-10245,Non-Stick Baking Tray - Large,Homeware,6.22,12.11,SUP-02,164,4
+NB-10246,Washable Cat Scratching Post - Large,Pet Supplies,4.63,6.22,SUP-08,134,10
+NB-10247,Rust-Resistant Cable Ties - XL,DIY & Tools,7.76,14.51,SUP-03,106,5
+NB-10248,Compact HDMI Cable - 1m,Electronics Accessories,7.95,12.44,SUP-09,420,24
+NB-10249,Glass Baking Tray - Medium,Homeware,4.0,7.07,SUP-01,161,5
+NB-10250,Heavy Duty Screwdriver Set - Pack of 50,DIY & Tools,9.96,17.25,SUP-04,36,9
+NB-10251,Pro Wood Screws - Pack of 100,DIY & Tools,9.71,20.12,SUP-04,220,8
+NB-10252,Folding Hand Trowel - Small,Garden,9.25,18.42,SUP-06,175,9
+NB-10253,Premium Dog Lead - Value Pack,Pet Supplies,4.14,7.02,SUP-07,145,5
+NB-10254,Nourishing Lip Balm - 100ml,Health & Beauty,6.51,11.17,SUP-11,116,10
+NB-10255,Galvanised Wall Plugs - Pack of 100,DIY & Tools,10.92,14.68,SUP-04,121,8
+NB-10256,Universal Screen Protector - 2m,Electronics Accessories,9.24,14.54,SUP-09,321,24
+NB-10257,UV-Resistant Bird Feeder - Medium,Garden,8.27,15.45,SUP-05,116,4
+NB-10258,Chew-Resistant Cat Scratching Post - Value Pack,Pet Supplies,1.71,2.83,SUP-08,214,8
+NB-10259,Nourishing Lip Balm - 500ml,Health & Beauty,2.54,3.32,SUP-11,358,10
+NB-10260,Travel Body Wash - 250ml,Health & Beauty,3.08,6.04,SUP-11,260,9
+NB-10261,Slim Phone Case - White,Electronics Accessories,10.74,15.97,SUP-09,229,24
+NB-10262,Heavy Duty Bird Feeder - Small,Garden,3.35,6.46,SUP-05,157,3
+NB-10263,Travel Shower Gel - 250ml,Health & Beauty,7.31,13.75,SUP-12,202,21
+NB-10264,Compact Claw Hammer - Pack of 100,DIY & Tools,21.52,40.62,SUP-03,135,4
+NB-10265,Rust-Resistant Utility Knife - Pack of 100,DIY & Tools,7.46,10.73,SUP-04,230,7
+NB-10266,Compact Tape Measure - Pack of 100,DIY & Tools,38.47,52.32,SUP-04,179,9
+NB-10267,Premium Cat Litter - Small,Pet Supplies,5.17,6.76,SUP-07,93,3
+NB-10268,Lightweight Garden Hose - Small,Garden,13.65,23.61,SUP-06,139,9
+NB-10269,Premium Dog Chew Toy - Medium,Pet Supplies,3.41,6.66,SUP-07,149,3
+NB-10270,Bamboo Storage Jar - Small,Homeware,3.3,5.66,SUP-01,133,5
+NB-10271,Universal Wireless Mouse - 1m,Electronics Accessories,6.28,11.68,SUP-09,306,24
+NB-10272,Weatherproof Garden Gloves - Small,Garden,2.8,4.08,SUP-06,158,8
+NB-10273,Slim Screen Protector - 1m,Electronics Accessories,12.8,18.01,SUP-09,68,24
+NB-10274,Heavy Duty Garden Gloves - Large,Garden,8.78,13.25,SUP-06,138,7
+NB-10275,Travel Hand Cream - 100ml,Health & Beauty,4.39,9.02,SUP-11,230,9
+NB-10276,Cordless Screwdriver Set - Pack of 100,DIY & Tools,8.57,13.06,SUP-04,254,7
+NB-10277,Heavy Duty Adjustable Spanner - XL,DIY & Tools,20.19,37.14,SUP-04,533,9
+NB-10278,Pro Spirit Level - Standard,DIY & Tools,6.43,11.92,SUP-04,2640,8
+NB-10279,Washable Pet Bowl - Large,Pet Supplies,11.05,15.98,SUP-07,104,5
+NB-10280,Braided Laptop Sleeve - Black,Electronics Accessories,4.47,7.7,SUP-09,332,26
+NB-10281,Lightweight Garden Gloves - Medium,Garden,4.18,6.72,SUP-06,354,8
+NB-10282,Universal Wireless Mouse - 2m,Electronics Accessories,5.49,11.08,SUP-10,187,20
+NB-10283,Premium Pet Bed - Large,Pet Supplies,4.19,7.61,SUP-08,211,9
+NB-10284,Fragrance-Free Hand Cream - 100ml,Health & Beauty,4.97,10.18,SUP-12,872,21
+NB-10285,Heavy Duty Adjustable Spanner - Pack of 100,DIY & Tools,22.37,30.78,SUP-04,250,7
+NB-10286,Folding Compost Bag - Medium,Garden,3.39,4.43,SUP-05,142,4
+NB-10287,Pro Utility Knife - Standard,DIY & Tools,12.09,16.99,SUP-03,191,5
+NB-10288,Braided USB-C Cable - 2m,Electronics Accessories,7.35,13.1,SUP-09,560,26
+NB-10289,Braided Phone Case - Black,Electronics Accessories,6.05,8.77,SUP-10,152,19
+NB-10290,Non-Stick Kettle - Small,Homeware,8.47,15.26,SUP-01,205,4
+NB-10291,Compact Earphones - 2m,Electronics Accessories,12.6,20.66,SUP-09,266,25
+NB-10292,Nourishing Hand Cream - 500ml,Health & Beauty,3.7,6.41,SUP-12,273,22
+NB-10293,Grain-Free Cat Treats - Value Pack,Pet Supplies,5.73,10.18,SUP-08,121,8
+NB-10294,Washable Pet Bowl - Value Pack,Pet Supplies,4.46,7.97,SUP-08,161,10
+NB-10295,Nourishing Sunscreen SPF30 - 250ml,Health & Beauty,2.48,3.43,SUP-12,252,21
+NB-10296,Ceramic Chopping Board - Large,Homeware,4.32,6.26,SUP-01,102,4
+NB-10297,Glass Mug - Large,Homeware,6.07,11.08,SUP-01,226,3
+NB-10298,Chew-Resistant Pet Bowl - Medium,Pet Supplies,5.28,9.02,SUP-07,100,3
+NB-10299,Compact Wall Charger - White,Electronics Accessories,14.27,29.78,SUP-10,308,21
+NB-10300,Braided HDMI Cable - 2m,Electronics Accessories,14.33,30.92,SUP-10,199,19
