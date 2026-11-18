@@ -16,6 +16,9 @@ scratchpad/
 tmp/
 temp/
 
+# Database files
+*.db
+
 # OS / editor
 .DS_Store
 Thumbs.db
